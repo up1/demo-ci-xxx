@@ -5,6 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 public class LoginSuccessTest {
 
+    
     @Test
     public void loginwithLDAP() {
         Login login = new Login();
